@@ -1,2 +1,7 @@
-Will be working on this script from Monday to Friday every day, expect big changes.
-Thank you for using my script.
+| Monday to Friday |
+Will be working on a Script.\nExpect big changes.
+
+| Comming Updates |
+'Misc' tab -> \n- Killsay, Deathsay, Clantags...
+'Visuals' tab -> \n- Update to Crosshair Indicators
+& More..
