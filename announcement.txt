@@ -1,7 +1,10 @@
-| Monday to Friday |
-Will be working on a Script.\nExpect big changes.
+<Monday to Friday>
+Will be working on a Script.
+Expect big changes.
 
-| Comming Updates |
-'Misc' tab -> \n- Killsay, Deathsay, Clantags...
-'Visuals' tab -> \n- Update to Crosshair Indicators
+<Comming Updates>
+'Misc' tab ->
+- Killsay, Deathsay, Clantags...
+'Visuals' tab ->
+- Update to Crosshair Indicators
 & More..
